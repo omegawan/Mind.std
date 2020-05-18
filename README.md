@@ -1,0 +1,2 @@
+# Mind.std
+New world
